@@ -1,13 +1,23 @@
 body{
     margin: 20px;
+
+   
 }
 
 .avatar{
     width: 150px;
+    border-radius: 70px;
 }
 
 .card{
-    border: 1px dotted blue;
+    width: 400px;
+    margin-left: 15px;
+    margin-right: auto;
     padding: 20px;
     display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: rgb(119, 176, 232);
+    color: #2b2839;
+    border-bottom: 2px solid #d8cefe;
 }
